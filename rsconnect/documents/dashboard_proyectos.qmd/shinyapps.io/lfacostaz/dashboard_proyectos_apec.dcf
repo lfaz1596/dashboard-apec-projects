@@ -1,0 +1,14 @@
+name: dashboard_proyectos_apec
+title: dashboard_proyectos_apec
+username: lfacostaz
+account: lfacostaz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16856594
+bundleId: 11686775
+url: https://lfacostaz.shinyapps.io/dashboard_proyectos_apec/
+version: 1
+quarto_version: 1.8.25
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE
